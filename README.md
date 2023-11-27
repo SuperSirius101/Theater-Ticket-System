@@ -1,3 +1,6 @@
+# This Project was assigned by another team and given instructions on what to create. There are restrictions on what could be used to accomplish the project such as what can be imported or what datatypes/structures that were allowed due to what was covered in class.
+
+
 # it306team6
 
 Standard = 6.00 Early / 12.00 <br />
