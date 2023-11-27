@@ -1,0 +1,55 @@
+1000 am
+6
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+
+1200 am
+6
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+
+100 pm
+6
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+
+230 pm
+6
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+
+330 pm
+12
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+
+500 pm
+12
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+
+730 pm
+12
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,

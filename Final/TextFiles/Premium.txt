@@ -1,0 +1,29 @@
+1100 am
+8
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+
+130 pm
+8
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+
+345 pm
+16
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+
+530 pm
+16
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+
+730 pm
+16
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,
+F, F, F, F, F, F, F, F, F, F,

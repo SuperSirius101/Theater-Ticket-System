@@ -1,0 +1,15 @@
+330 pm
+24.0
+F, F, F, F, F, F, F, F, F, F, 
+F, F, F, F, F, F, F, F, F, F, 
+
+700 pm
+24.0
+F, F, F, F, F, F, F, F, F, F, 
+F, F, F, F, F, F, F, F, F, F, 
+
+1000 pm
+24.0
+F, F, F, F, F, F, F, F, F, F, 
+F, F, F, F, F, F, F, F, F, F, 
+

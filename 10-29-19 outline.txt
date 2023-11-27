@@ -1,0 +1,18 @@
+implementation:
+
+Theater [] standard = [//number of showtimes retrieved from file];
+Theater [] premium= [//number of showtimes retrieved from file];
+Theater [] luxury = [//number of showtimes retrieved from file];
+
+Standard Theater DDC:
+
+String time;
+Seat[][] seats;
+
+standard[1]
+standard[2]
+standard[3]
+
+Seat DDC:
+
+boolean taken;
